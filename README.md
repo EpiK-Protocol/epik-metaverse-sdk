@@ -13,7 +13,7 @@ As for a game developer, you can use our sdk to deploy all general smart contrac
 2. open NFT blind boxes to get all kinds of NFTs in your games
 3. stake their NFTs to earn EPK in the reward pool in your games
 
-Moreover, these smart contracts provide the ability for you to configure the parameters and customize the rule about how to distribute rewards in your NFT staking pool. If you have more good ideas about this sdk, please submit [PR](https://github.com/BoredApeIvan/epik-metaverse-sdk/pulls) in this repo using the title with the prefix [ADVICE].
+Moreover, these smart contracts provide the ability for you to configure the parameters and customize the rule about how to distribute rewards in your NFT staking pool. If you have a good idea about this sdk, please submit it as [the issue](https://github.com/EpiK-Protocol/epik-metaverse-sdk/issues) in this repo using the title with the prefix [ADVICE].
 
 ## Infrastructure Overview
 
