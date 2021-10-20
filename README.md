@@ -21,7 +21,7 @@ Moreover, these smart contracts provide the ability for you to configure the par
 
 ## Interface Design
 
-Here is the core interfaces of contracts in epik protocol metaverse sdk.
+Here are the core interfaces of contracts in epik protocol metaverse sdk.
 
 ```solidity
 coming soon...
